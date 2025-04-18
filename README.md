@@ -25,7 +25,7 @@ DeCrop is a Python utility script designed for automatically cropping specific o
     * `ultralytics` (which includes `torch`, `torchvision`, etc.)
     * `tqdm`
     * `Pillow` (often required by `ultralytics`/`torchvision`)
-* **YOLOv8 Model File:** A pre-trained YOLOv8 model file (e.g., `yolov8s.pt`, `yolov8m.pt`). Download from the [Ultralytics YOLOv8 GitHub Releases](https://github.com/ultralytics/yolov8/releases) if needed.
+* **YOLOv8 Model File:** A pre-trained YOLOv8 model file (e.g., `yolov8s.pt`, `yolov8m.pt`). Download from the [Ultralytics YOLOv8 Docss](https://docs.ultralytics.com/models/yolov8/) if needed.
 
 ## Installation
 
